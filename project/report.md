@@ -46,7 +46,7 @@ I would also perform more hyperparameter tuning with high qualilty presets.
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-![model_train_score.png](img/model_train_scpngore.)
+![model_train_score.png](img/model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
